@@ -4,7 +4,6 @@
 <details open="open">
     <summary>Table of Contents</summary>
     <li><a href="#about-the-project"> About the Project</a></li>
-    <li><a href="#used-technologies">  Technologies</a></li>
     <li><a href="#contributors">   Contributors</a></li>
     <li><a href="#download">    Download</a></li>
 </details>
