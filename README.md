@@ -29,12 +29,12 @@ Email: <a>GSRadev21@codingburgas.bg</a> <br>
     
 <h2 id="download">Download</h2>
     
-<p>To download our project, clone this repository, writing git clone and then pasting this text in your command prompt:</p>
+<p>To download my project, clone this repository, writing git clone and then pasting this text in your command prompt:</p>
     
 <pre>https://github.com/GSRadev21/Three-layer-architecture.git</pre>
     
-<h3 align="center"> Thank you and enjoy playing our game! <h3>
+<h3 align="center"> Thank you and enjoy playing my game! <h3>
 <h4 align="center"> Made with ❤️, HTML, CSS, JS and Nodepad++ </h4>
 <hr>
-<h4 align="center"> Created by team DNA | &copy 2023 All rights reserved.</h4>
-<h1 align="center">Thanks for checking out my repo, show me some support by giving our repo a ⭐️!</h1>
+<h4 align="center"> Created by Gospodin Radev | &copy 2023 All rights reserved.</h4>
+<h1 align="center">Thanks for checking out my repo, show me some support by giving my repo a ⭐️!</h1>
