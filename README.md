@@ -18,7 +18,7 @@
     
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
      
-<!-- CONTRIBUTOR -->
+<!-- CONTRIBUTORS -->
 <h2 id="contributor">Contributor</h2>
     
 <p>   
